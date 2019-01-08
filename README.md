@@ -1,3 +1,63 @@
+# ２０１８年度　卒業論文
+
+## 次世代版避難訓練の考察 
+## Title
+
+２０１９年１月１０日
+
+青山学院大学 地球社会共生学部 地球社会共生学科
+
+中井　美沙
+
+学生番号　1A115180
+
+
+指導教員　古橋 大地 教授
+
+
+# 概要
+（卒業論文の内容を４００〜６００字程度でまとめる。）
+
+
+# 全体構成(IMRAD形式)
+
+## Introduction:
+What are you studying and why? 何を研究したのか？ 何故それを研究したのか？(500文字以内で簡単に記述する)
+
+
+
+## Methods:
+What did you do? 具体的には何をしたのか？(500文字以内で簡単に記述する)
+
+
+
+## Results:
+What did you find? 何がわかったのか? (500文字以内で簡単に記述する)
+
+
+
+## Discussion:
+What do your findings mean? あなたが見つけたことは何を意味するのか？どんな議論をしたか。(500文字以内で簡単に記述する)
+
+
+
+## Conclusion:
+What have you learned from the study? この研究を通じて得られたものは？次に引き継ぐべき課題は？(500文字以内で簡単に記述する)
+
+
+# 本文
+
+* 卒論本文
+https://github.com/furuhashilab/sotsuron4misamisa/blob/master/README.md
+
+
+* リポジトリ
+https://github.com/furuhashilab/sotsuron4misamisa
+
+
+
+---
+
 # 次世代版避難訓練の考察
 ## 目次
 
