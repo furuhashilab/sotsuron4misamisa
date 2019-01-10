@@ -34,7 +34,7 @@
 
 ## Results:
 次世代版避難訓練LUDUSOSをGitHub上にオープンソース化し公開した。ライセンスはCC BY-SA 4.0を採用し、日本語表記は「© 一般社団法人防災ガール, CC BY-SA 4.0」英語表記は「© Bosai Girl, CC BY-SA 4.0」と定めた。
-[LUDUSOS](https://github.com/bosai-girl/LUDUSOS)
+[LUDUSOSオープンソースリポジトリ](https://github.com/bosai-girl/LUDUSOS)
 
 ## Discussion:
 主な論点は以下3点である。
